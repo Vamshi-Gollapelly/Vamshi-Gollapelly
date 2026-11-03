@@ -25,7 +25,7 @@ I'm a **Master of Information Technology graduate from Deakin University, Melbou
 - 🌏 &nbsp;**Project Echo** (Deakin capstone, open source): built live-map rendering and detection visualisation for the HMI, wrote shared error-handling and retry utilities used by teammates, and reviewed pull requests as a code owner, catching security regressions before merge
 - 🤖 &nbsp;**job_agent_v2**: Flask app that scores job listings against my resume with an LLM and drafts tailored applications, with validated model output and pytest tests
 - 🗺️ &nbsp;Built a **lost & found Android app** with Google Maps SDK, Places API autocomplete, and GPS radius filtering
-- 🎓 &nbsp;Completed a **Java Full Stack Development Program** at VCube Software Solutions: Spring Boot REST APIs, MySQL, Docker
+- 🎓 &nbsp;Completed a **Java Full Stack Development Course** at VCube Software Solutions
 - 📍 &nbsp;Based in Melbourne, Australia · Open to graduate & junior developer roles
 - 📬 &nbsp;Reach me at **vamshigollapelly225@gmail.com**
 
